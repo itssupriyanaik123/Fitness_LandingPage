@@ -1,6 +1,5 @@
 # Fitness_LandingPage
 
-
 A health and fitness landing page is a URL that people visit when looking for a specific product or service within the health &amp; fitness industry. 
 
 The link for this landing page is https://itssupriyanaik123.github.io/Fitness_LandingPage/
